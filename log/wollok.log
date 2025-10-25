@@ -16,3 +16,4 @@
 {"level":"info","message":"onRequest - STRONG_FILES_CHANGED:/home/dodain/workspace/wollok-dev/wollok-workspace/migracion-proyectos/pacmanBasicGame/videos/firstGame.gif","timestamp":"2024-05-23T01:05:33.586Z"}
 {"level":"info","message":"onRequest - WORKSPACE_URI:file:///home/dodain/workspace/wollok-dev/wollok-workspace/migracion-proyectos/pacmanBasicGame","timestamp":"2024-05-23T01:05:33.818Z"}
 {"level":"info","message":"Removing diagnostics from /home/dodain/workspace/wollok-dev/wollok-workspace/migracion-proyectos/pacmanBasicGame/videos/firstGame.gif","timestamp":"2024-05-23T01:05:33.892Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":106,"timestamp":"2025-10-25T13:17:52.911Z"}
